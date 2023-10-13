@@ -20,7 +20,7 @@ Hello, with this source code, you can code more accordingly
 <p align="center">
 <strong>
 You Can Use It By Downloading Then Launching<br>
-Or Download And Upload It To <a href="https://replit.com">Replit </a> And Launching
+Or Download And Upload It To <a href="https://replit.com">Replit  </a> And Launching
 </strong>
 </p>
 
